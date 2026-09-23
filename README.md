@@ -1,7 +1,5 @@
 # Syed Hasnain Portfolio Showcase
 
-![Portfolio Preview Preview](Profile%20for%20Resume.png)
-
 A personal portfolio website for **Engr. Syed Hasnain**, an AI & Machine Learning Engineer and Data Scientist based in Hyderabad, Pakistan. This project serves as a showcase for various specialized achievements across Natural Language Processing (NLP), Retrieval-Augmented Generation (RAG) architectures, and Backend Systems.
 
 ## 🚀 Live Demo
